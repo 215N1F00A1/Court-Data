@@ -1,4 +1,5 @@
-# Court Data Fetcher & Mini-Dashboard https://court-data-umber.vercel.app/
+# Court Data Fetcher & Mini-Dashboard
+https://court-data-umber.vercel.app/
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![React](https://img.shields.io/badge/React-18.3.1-blue.svg)](https://reactjs.org/)
