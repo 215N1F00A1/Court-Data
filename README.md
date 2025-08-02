@@ -1,4 +1,4 @@
-# Court Data Fetcher & Mini-Dashboard
+# Court Data Fetcher & Mini-Dashboard https://court-data-umber.vercel.app/
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![React](https://img.shields.io/badge/React-18.3.1-blue.svg)](https://reactjs.org/)
@@ -77,15 +77,7 @@ npm run dev
 # Open browser to http://localhost:8080
 ```
 
-### Environment Variables (Optional)
 
-For production deployment with external services:
-
-```bash
-# .env
-VITE_SUPABASE_URL=your_supabase_url
-VITE_SUPABASE_PUBLISHABLE_KEY=your_supabase_key
-VITE_FIRECRAWL_API_KEY=your_firecrawl_key
 ```
 
 ## 🎯 Usage
